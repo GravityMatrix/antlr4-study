@@ -1,0 +1,16 @@
+SEPARATOR=1
+EQ=2
+LT=3
+LE=4
+GT=5
+GE=6
+SORT=7
+LIKE=8
+IN=9
+PARAM=10
+WS=11
+SHEBANG=12
+';'=1
+'=sort='=7
+'=like='=8
+'=in='=9
